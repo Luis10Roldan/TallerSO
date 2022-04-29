@@ -1,0 +1,15 @@
+name: PHP Composer
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+permissions:
+  contents: read
+      
+ <p class="text-center">
+                         Luis Gerardo Novelo Roldan  --- TallerSistemasOperativos
+     </p>
+
